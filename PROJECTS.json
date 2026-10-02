@@ -1,0 +1,20 @@
+[
+  {
+    "id": "financial-reconciliation-and-exception-workbench-python",
+    "title": "Financial Reconciliation and Exception Workbench",
+    "family": "Python",
+    "folder": "python/financial-reconciliation-and-exception-workbench-python"
+  },
+  {
+    "id": "ecommerce-fulfillment-and-exception-portal-python",
+    "title": "Ecommerce Fulfillment and Exception Portal",
+    "family": "Python",
+    "folder": "python/ecommerce-fulfillment-and-exception-portal-python"
+  },
+  {
+    "id": "education-assessment-and-progress-api-python",
+    "title": "Education Assessment and Progress API",
+    "family": "Python",
+    "folder": "python/education-assessment-and-progress-api-python"
+  }
+]
